@@ -1,0 +1,79 @@
+{
+  "name": "Emsad",
+  "lastName": "Ahmetašević",
+  "birthDay": "18.08.1987",
+  "birthPlace": "Gradačac - BiH",
+  "livingPlace": "Tuzla - BiH",
+  "contact": {
+    "email": "emsad87@gmail.com",
+    "twitter": "@emsad87",
+    "linedIn": "emsad87"
+  },
+  "bio": [
+    "My name is Emsad, I am born in Gradačac, that's a small city in Bosnia & Herzegovina. I like technology, sports, books, music, philosophy... Always looking to learn something new. Life circumstances and work made me move a lot, so I lived in Županja, Labin, Makarska in Croatien, Bremen in Germany, Banja Luka, Sarajevo, Tuzla (currently) in Bosnia. Moving around made me learn a lot, about people, cultures, traditions, and a lot more.",
+    "For the last 14 years, I have worked in the field of customer support, maintenance, selling, and delivery. Worth mentioning is that it was for “Konica Minolta” and “Canon” partners. I used my free time to educate myself through online resources. So I have advanced knowledge of Html, CSS, javascript, and good knowledge of Github, sass, PHP, C#, MySQL, frameworks, etc… Good understanding of UI/UX, responsive design, semantic, accessibility, flexbox, grid, OOP, etc...",
+    "I'm currently available for freelance projects or full-time work. If you're interested in working with me, please get in touch using one of the methods below. Or feel free to just say hi. I like that too."
+  ],
+  "hobbies": [
+    "Music (DJ / Production)",
+    "Sport (Calisthenics / Hiking)",
+    "Reading (Psychology / Philosophy)",
+    "Electronics (Arduino / Synths)",
+    "Art (Painting / Audio & Visual)",
+    "DIY (Furniture / Mechanics)"
+  ],
+  "experience": {
+    "job1": {
+      "company": "Neutrino d.o.o.",
+      "location": "Tuzla - BiH",
+      "comment": "Canon Partner",
+      "position": ["Service Technician", "Support", "Delivery", "Seller"],
+      "started": "2015",
+      "until": "Present",
+      "description": [
+        "This company is a Canon partner. Firstly I got through the Canon training part and then got the position as a Service Technician Company. My task was customer support, maintenance of rented and sold multifunctional machines, selling and delivery, etc...",
+        "Here I got with some previous experience in the field of IT and print solutions. Firstly I got to the IT position, mostly working with PCs, operating systems, drivers, networks, etc... Later a position more suitable for my experience got free and I was promoted. As I had previous experience with the B&W machine it was time to upgrade to Color machines. Now I am working with advanced color/B&W multifunctional machine. Covering the whole region in Bosnia, working with different clients, banks, police stations, schools, government, etc...",
+        "As the company is a Canon partner We got to do canon service training, seminars, etc... Always learning new stuff from day to day, as technology advances so do my knowledge... Strengthen my previously gathered skills and learning new. Teamwork, Communication, Organization, Selling, IT skills, Customer support, maintenance, etc..."
+      ],
+      "conclusion": "As I love technology and learning new stuff, here I got the chance to get it all. Every day is a new adventure, new city, new people, new tasks/problems to solve, etc...",
+      "aquiredSkills": [
+        "IT Skills",
+        "Teamwork",
+        "Communication",
+        "Problem-solving",
+        "Work under pressure",
+        "Commercial awareness",
+        "Selling",
+        "Customer support",
+        "Organization"
+      ]
+    },
+    "job2": {
+      "company": "BiroCommerce d.o.o.",
+      "location": "Odžak - BiH",
+      "comment": "Konica Minolta Partner",
+      "position": ["Service Technician", "Support", "Delivery", "Seller"],
+      "started": "2012",
+      "until": "2015",
+      "description": [
+        "This company is a Konica Minolta partner. Firstly I got through the Konica Minolta training part and then got the position as a Service Technician in the Company. My task was customer support, maintenance of rented and sold multifunctional machines, selling and delivery, etc...",
+        "I love technology, so this job was perfect for me. I had no previous knowledge about print and copy machines but I had some IT knowledge. So I got easy through the training part and learned quickly about advanced stuff. Primarily I worked with black and white A3 multifunctional machines.",
+        "Doing maintenance, selling and delivery on the whole region of Bosnia made me drive around a lot, so again it was fun to explore new cities, meet new people. Every day was a new adventure, new city, new task/problem, new people.",
+        "Here I got new skills like Customer support, IT skills, selling, Teamwork, Problem-solving, etc..."
+      ],
+      "conclusion": "As I had no previous experience working in the field of technology, this was a real adventure for me. Gathered a lot of new knowledge about customer support, print solutions, selling, maintenance, delivery, etc...",
+      "aquiredSkills": [
+        "IT Skills",
+        "Teamwork",
+        "Communication",
+        "Problem-solving",
+        "Work under pressure",
+        "Commercial awareness",
+        "Selling",
+        "Customer support",
+        "Organization"
+      ]
+    }
+  },
+  "skills": ["html", "css", "javascript"]
+}
