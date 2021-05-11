@@ -1,0 +1,116 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  background-color: gray;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+body > main {
+  width: 95%;
+  margin: 0 auto;
+  background-color: darkslategray;
+  padding: 2rem;
+  color: white;
+}
+
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.card__img {
+  width: 100%;
+}
+
+.github main {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  gap: 1rem;
+  justify-content: center;
+}
+
+.github article {
+  width: 100%;
+  height: 100%;
+  box-shadow: inset 0px 0px 10px 2px rgba(255, 255, 255, 0.1),
+    0 1px 1px rgba(0, 0, 0, 0.25), 0 2px 2px rgba(0, 0, 0, 0.2),
+    0 4px 4px rgba(0, 0, 0, 0.15), 0 8px 8px rgba(0, 0, 0, 0.1),
+    0 16px 16px rgba(0, 0, 0, 0.05);
+
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  padding: 0 1rem;
+
+  transition: all 0.1s;
+}
+
+.github article:hover {
+  transform: scale(1.02);
+}
+
+.github a {
+  width: 100%;
+  text-decoration: none;
+  color: currentColor;
+}
+
+.icon {
+  width: 50px;
+  height: 50px;
+}
+
+.card__contact {
+  display: flex;
+  justify-content: space-between;
+}
+
+@media screen and (min-width: 450px) {
+  body > main {
+    width: 75%;
+  }
+
+  .card {
+    display: grid;
+    grid-template:
+      'img info skills'
+      'contact contact contact'
+      'bio bio bio'
+      'hobi hobi hobi';
+    gap: 1rem;
+  }
+
+  .card__img {
+    grid-area: img;
+  }
+
+  .card__info {
+    grid-area: info;
+  }
+
+  .card__hobbies {
+    grid-area: hobi;
+  }
+
+  .card__bio {
+    grid-area: bio;
+  }
+
+  .card__skills {
+    grid-area: skills;
+  }
+
+  .card__contact {
+    grid-area: contact;
+    justify-content: space-around;
+  }
+
+  .github main {
+    flex-direction: row;
+  }
+
+  .github a {
+    width: 30%;
+  }
+}

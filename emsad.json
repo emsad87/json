@@ -1,14 +1,35 @@
 {
   "name": "Emsad",
   "lastName": "Ahmetašević",
-  "birthDay": "18.08.1987",
+  "birthday": "18.08.1987",
   "birthPlace": "Gradačac - BiH",
   "livingPlace": "Tuzla - BiH",
   "image": "https://emsad87.github.io/img/emsad/emsad3.jpg",
+  "website": {
+    "url": "https://emsad87.github.io/",
+    "icon": "./svg/globe.svg"
+  },
   "contact": {
-    "email": "emsad87@gmail.com",
-    "twitter": "@emsad87",
-    "linedIn": "emsad87"
+    "email": {
+      "username": "emsad87@gmail.com",
+      "url": "mailto:emsad87@gmail.com",
+      "icon": "./svg/mail.svg"
+    },
+    "github": {
+      "username": "emsad87",
+      "url": "https://github.com/emsad87",
+      "icon": "./svg/github.svg"
+    },
+    "linkedIn": {
+      "username": "emsad87",
+      "url": "https://www.linkedin.com/in/emsad",
+      "icon": "./svg/linkedin.svg"
+    },
+    "twitter": {
+      "username": "@emsad87",
+      "url": "https://twitter.com/emsad87",
+      "icon": "./svg/twitter.svg"
+    }
   },
   "bio": [
     "My name is Emsad, I am born in Gradačac, that's a small city in Bosnia & Herzegovina. I like technology, sports, books, music, philosophy... Always looking to learn something new. Life circumstances and work made me move a lot, so I lived in Županja, Labin, Makarska in Croatien, Bremen in Germany, Banja Luka, Sarajevo, Tuzla (currently) in Bosnia. Moving around made me learn a lot, about people, cultures, traditions, and a lot more.",
@@ -76,5 +97,5 @@
       ]
     }
   },
-  "skills": ["html", "css", "javascript"]
+  "skills": ["html", "css", "javascript", "json", "react", "parcel"]
 }
